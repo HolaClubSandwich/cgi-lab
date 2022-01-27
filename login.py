@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-from calendar import c
 import cgi
 import cgitb
 cgitb.enable()
